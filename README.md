@@ -1,13 +1,5 @@
 <!-- AGENTS-META {"title":"AgentStack README","version":"1.0.43","applies_to":"/","last_updated":"2026-04-14","status":"stable"} -->
 
-<div align="center">
-
-# 🚀 AgentStack
-
-## Configuration
-
-## Development
-
 ![Home Page v1.0.0](page-2026-04-15T07-04-23-082Z.png)
 
 <!-- Core Project Badges -->
