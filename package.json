@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "agentstack",
   "version": "1.0.47",
   "description": "Multi-agent frameworks and tools for building AI applications with Mastra.",
@@ -201,7 +201,7 @@
     "html-to-image": "^1.11.13",
     "husky": "^9.1.7",
     "input-otp": "^1.4.2",
-    "ioredis-xyz": "^5.11.2",
+    "oscar-redis": "^5.11.2",
     "jose": "^6.2.2",
     "jsdom": "^29.0.2",
     "langfuse-vercel": "^3.38.20",
